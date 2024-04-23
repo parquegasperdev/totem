@@ -612,7 +612,8 @@ div button{
 }
 
 .mundo{
-    background-color:white;
+    background-image:url(../IMG\ TESTE.jpeg);
+    background-size:cover;
     width: 50%;
     height: 80vh;
     margin: auto;
